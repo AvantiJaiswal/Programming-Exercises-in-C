@@ -1,0 +1,1 @@
+Writing a C Program to accept age, gender and marital status of a driver and print if he or she is insured, considering following conditions- 1) If driver is married then he or she is insured else not 2) If he or she is not married, if male and age >= 30 then insured else not. 3) If he or she is not married, if female and age >= 25 then insured else not.
